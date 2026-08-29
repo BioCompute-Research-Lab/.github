@@ -285,3 +285,6 @@ We are building toward that possibility.
 BioCompute - Research Lab is a project hosted by <i><b><a href="https://www.linkedin.com/company/arlmatrix">ARL Matrix</a></b></i> and contributions from the ARL Matrix community.<br>
 <i><b>Thank you very much!</b></i>
 </p>
+<p>
+  Follow Us On LinkedIn <i><b><a href="https://www.linkedin.com/showcase/biocompute-research-lab">BioCompute - Research Lab</a></b></i>
+</p>
