@@ -234,7 +234,7 @@ We aim to move ideas through the complete cycle:
       Real-World Technology
   </pre><br>
 </div>
-<p>Our repositories contain the software, algorithms, simulations, experiments, datasets, and infrastructure that support this process.</p><br>
+<p><strong>Future Outcome: </strong>Our repositories contain the software, algorithms, simulations, experiments, datasets, and infrastructure that support this process.</p><br>
 
 ## 🌐 Cumulative Research
 ---
