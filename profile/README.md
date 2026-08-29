@@ -56,7 +56,6 @@ BioCompute explores:
 <p>
   <strong>The Idea:</strong> transform DNA from biological information into a programmable <i><b>information-storage medium</b></i></p>.
 </p>
-<br>
 
 ### 🧠 Neurons / Brain Cells as Computers
 <p>
@@ -209,7 +208,7 @@ Biology offers an entirely different computational toolbox.
 - It performs massively parallel operations.
 - It operates at molecular scales.
 </p>
-<strong>BioCompute aims to understand, engineer, and ultimately build technology around these capabilities.</strong>
+<strong>BioCompute aims to understand, engineer, and ultimately build technology around these capabilities.</strong><br>
 
 <p align="center">
   <i><b>We don't just compute biology.<br>We explore computing with biology.</b></i>
@@ -234,8 +233,8 @@ We aim to move ideas through the complete cycle:
               ↓
       Real-World Technology
   </pre><br>
-  <p>Our repositories contain the software, algorithms, simulations, experiments, datasets, and infrastructure that support this process.</p>
-</div><br>
+</div>
+<p>Our repositories contain the software, algorithms, simulations, experiments, datasets, and infrastructure that support this process.</p><br>
 
 ## 🌐 Cumulative Research
 ---
