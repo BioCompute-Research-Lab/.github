@@ -77,6 +77,7 @@ Our research interests include:
 <p>
   <strong>The idea</strong>: instead of only simulating neurons on a computer, investigate what happens when <b>the biological system performs the computation itself</b>.<br>
 </p>
+
 ### 🦠 Cells & Microorganisms
 
 Cells are naturally capable of sensing their environment, processing molecular signals, making decisions, and producing responses.
@@ -281,6 +282,6 @@ We are building toward that possibility.
 ## About
 ---
 <p>
-BioCompute - Research Lab is a project hosted by [ARL Matrix](https://www.linkedin.com/company/arlmatrix/) and contributions from the ARL Matrix community.<br>
+BioCompute - Research Lab is a project hosted by <i><b><a href="https://www.linkedin.com/company/arlmatrix">ARL Matrix</a></b></i> and contributions from the ARL Matrix community.<br>
 <i><b>Thank you very much!</b></i>
 </p>
