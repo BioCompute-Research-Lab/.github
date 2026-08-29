@@ -21,7 +21,8 @@ From <i><b>DNA as an information-storage medium to living neural cells as comput
 ## 🧬 What We're Building
 ---
 <p>Our work explores the convergence of <b>biological systems and computation</b>:</p>
-<table>
+<div align="center">
+  <table>
 <thead><tr><th>Biological System</th><th>Computational Possibility</th></tr></thead>
 <tbody><tr><td>🧬 <strong>DNA</strong></td><td>Ultra-dense, long-term information storage</td></tr>
        <tr><td>🧠 <strong>Neurons / Brain Cells</strong></td><td>Biological and neuromorphic computation</td></tr>
@@ -31,6 +32,8 @@ From <i><b>DNA as an information-storage medium to living neural cells as comput
        <tr><td>🤖 <strong>AI + Biology</strong></td><td>Intelligent models for designing and understanding biological computation</td></tr>
 </tbody>
 </table>
+</div>
+  
 <p>Our long-term ambition is to investigate <strong>computing architectures that don't necessarily require conventional silicon as their fundamental substrate</strong>.</p>
 
 ### 🧬 DNA as Storage
