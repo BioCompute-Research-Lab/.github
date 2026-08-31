@@ -24,15 +24,17 @@ BioCompute Research Lab is associated with **ARL Matrix**, an ecosystem supporti
 
 The `DOCUMENTATION` directory contains the foundational documents defining the direction and identity of BioCompute Research Lab.
 
-| Document | Description |
+<div align="center">
+   | Document | Description |
 |---|---|
-| [Overview](.github/DOCUMENTATION/OVERVIEW.md) | Introduction to BioCompute Research Lab and its research direction |
-| [Vision](.github/DOCUMENTATION/VISION.md) | Long-term vision and scientific direction |
-| [Goal](.github/DOCUMENTATION/GOAL.md) | Core objectives and intended outcomes |
-| [Path](.github/DOCUMENTATION/PATH.md) | The approach from research to practical technology |
-| [Partners](.github/DOCUMENTATION/PARTNERS.md) | Collaborations, associations, and ecosystem partners |
-| [Presence](.github/DOCUMENTATION/PRESENCE.md) | BioCompute's organizational and digital presence |
-| [License](.github/DOCUMENTATION/LICENSE.md) | Intellectual property and usage terms |
+| [Overview](.github/documentation/OVERVIEW.md) | Introduction to BioCompute Research Lab and its research direction |
+| [Vision](.github/documentation/VISION.md) | Long-term vision and scientific direction |
+| [Goal](.github/documentation/GOAL.md) | Core objectives and intended outcomes |
+| [Path](.github/documentation/PATH.md) | The approach from research to practical technology |
+| [Partners](.github/documentation/PARTNERS.md) | Collaborations, associations, and ecosystem partners |
+| [Presence](.github/documentation/PRESENCE.md) | BioCompute's organizational and digital presence |
+| [License](.github/documentation/LICENSE.md) | Intellectual property and usage terms |
+</div>
 
 ---
 
@@ -173,7 +175,8 @@ Resources will be made available according to their research, intellectual-prope
 
 Our research follows a continuous progression:
 
-```text
+<div align="center">
+   ```text
 Research
    ↓
 Model
@@ -186,10 +189,12 @@ Engineer
    ↓
 Scale
    ↓
-Technology
+Technology```
+</div>
 
 Across our research domains, we explore a broader computational progression:
-
+<div align="center">
+   ```text
 STORE
   ↓
 COMPUTE
@@ -202,7 +207,8 @@ ADAPT
   ↓
 INTEGRATE
   ↓
-INTELLIGENCE
+INTELLIGENCE```
+</div>
 
 The objective is not to make biology imitate conventional computing.
 
@@ -213,12 +219,15 @@ Instead, we ask:
 ---
 
 ## 🧩 Biology • Computing • Intelligence
+<div align="center">
+   ```text
               BIOLOGY
                  │
                  │
         ┌────────┴────────┐
         │                 │
-    COMPUTING ─────── INTELLIGENCE
+    COMPUTING ─────── INTELLIGENCE```
+</div>
 
 <p align="center">
    <i><b>Biology provides the substrate.
@@ -242,10 +251,10 @@ BioCompute - Research Lab is associated with <i><b><a href="https://arlmatrix.on
 ## 📚 Explore
 | Area                | Link                                                                  |
 | ------------------- | --------------------------------------------------------------------- |
-| Documentation       | [Explore Documentation](.github/DOCUMENTATION/)                       |
-| Research            | [Explore Research](#-research)                                        |
-| Projects            | [Explore Projects](#-projects)                                        |
-| Resources           | [Explore Resources](#-resources)                                      |
+| Documentation       | [Explore Documentation](.github/documentation/)                       |
+| Research            | [Explore Research](.github/research/)                                        |
+| Projects            | [Explore Projects](.github/projects/)                                        |
+| Resources           | [Explore Resources](.github/resources/)                                      |
 | GitHub Organization | [BioCompute Research Lab](https://github.com/BioCompute-Research-Lab) |
 
 ---
@@ -254,7 +263,7 @@ BioCompute - Research Lab is associated with <i><b><a href="https://arlmatrix.on
 
 We are interested in connecting with <i><b>researchers, developers, students, scientists, engineers, and organizations</b></i> working at the intersection of:
 
-Biology · Computing · Artificial Intelligence · Biotechnology · Deep Technology
+**Biology · Computing · Artificial Intelligence · Biotechnology · Deep Technology**
 
 For collaboration and other inquiries, please contact the BioCompute Research Lab team through the official channels.
 
@@ -262,10 +271,10 @@ For collaboration and other inquiries, please contact the BioCompute Research La
 
 📜 Intellectual Property
 
-Unless explicitly stated otherwise, the contents of this repository are proprietary to BioCompute Research Lab.
+Unless explicitly stated otherwise, the contents of this repository are proprietary to **BioCompute - Research Lab**.
 
-No license or permission is granted to reproduce, modify, distribute, publish, commercialize, or otherwise use the contents of this repository without prior written authorization.
+No license or permission is granted to **reproduce, modify, distribute, publish, commercialize, or otherwise use** the contents of this repository without prior written authorization.
 
-See <i><b><a href=".github/DOCUMENTATION/LICENSE.md">LICENSE.md</a></b></i> for the applicable terms.
+See <i><b><a href=".github/documentation/LICENSE.md">LICENSE.md</a></b></i> for the applicable terms.
 
 > **Thanks you so much!**
