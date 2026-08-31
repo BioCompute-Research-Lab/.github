@@ -25,15 +25,74 @@ BioCompute Research Lab is associated with **ARL Matrix**, an ecosystem supporti
 The `DOCUMENTATION` directory contains the foundational documents defining the direction and identity of BioCompute Research Lab.
 
 <div align="center">
-   | Document | Description |
-|---|---|
-| [Overview](.github/documentation/OVERVIEW.md) | Introduction to BioCompute Research Lab and its research direction |
-| [Vision](.github/documentation/VISION.md) | Long-term vision and scientific direction |
-| [Goal](.github/documentation/GOAL.md) | Core objectives and intended outcomes |
-| [Path](.github/documentation/PATH.md) | The approach from research to practical technology |
-| [Partners](.github/documentation/PARTNERS.md) | Collaborations, associations, and ecosystem partners |
-| [Presence](.github/documentation/PRESENCE.md) | BioCompute's organizational and digital presence |
-| [License](.github/documentation/LICENSE.md) | Intellectual property and usage terms |
+
+<table>
+    <thead>
+        <tr>
+            <th>Document</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a href=".github/documentation/OVERVIEW.md">Overview</a>
+            </td>
+            <td>
+                Introduction to BioCompute Research Lab and its research direction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href=".github/documentation/VISION.md">Vision</a>
+            </td>
+            <td>
+                Long-term vision and scientific direction
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href=".github/documentation/GOAL.md">Goal</a>
+            </td>
+            <td>
+                Core objectives and intended outcomes
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href=".github/documentation/PATH.md">Path</a>
+            </td>
+            <td>
+                The approach from research to practical technology
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href=".github/documentation/PARTNERS.md">Partners</a>
+            </td>
+            <td>
+                Collaborations, associations, and ecosystem partners
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href=".github/documentation/PRESENCE.md">Presence</a>
+            </td>
+            <td>
+                BioCompute's organizational and digital presence
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href=".github/documentation/LICENSE.md">License</a>
+            </td>
+            <td>
+                Intellectual property and usage terms
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 </div>
 
 ---
@@ -176,7 +235,7 @@ Resources will be made available according to their research, intellectual-prope
 Our research follows a continuous progression:
 
 <div align="center">
-   ```text
+   <pre>
 Research
    ↓
 Model
@@ -189,12 +248,13 @@ Engineer
    ↓
 Scale
    ↓
-Technology```
+Technology
+   </pre>
 </div>
 
 Across our research domains, we explore a broader computational progression:
 <div align="center">
-   ```text
+   <pre>
 STORE
   ↓
 COMPUTE
@@ -207,7 +267,8 @@ ADAPT
   ↓
 INTEGRATE
   ↓
-INTELLIGENCE```
+INTELLIGENCE
+   </pre>
 </div>
 
 The objective is not to make biology imitate conventional computing.
@@ -220,13 +281,14 @@ Instead, we ask:
 
 ## 🧩 Biology • Computing • Intelligence
 <div align="center">
-   ```text
+   <pre>
               BIOLOGY
                  │
                  │
         ┌────────┴────────┐
         │                 │
-    COMPUTING ─────── INTELLIGENCE```
+    COMPUTING ─────── INTELLIGENCE
+   </pre>
 </div>
 
 <p align="center">
@@ -249,13 +311,48 @@ BioCompute - Research Lab is associated with <i><b><a href="https://arlmatrix.on
 ---
 
 ## 📚 Explore
-| Area                | Link                                                                  |
-| ------------------- | --------------------------------------------------------------------- |
-| Documentation       | [Explore Documentation](.github/documentation/)                       |
-| Research            | [Explore Research](.github/research/)                                        |
-| Projects            | [Explore Projects](.github/projects/)                                        |
-| Resources           | [Explore Resources](.github/resources/)                                      |
-| GitHub Organization | [BioCompute Research Lab](https://github.com/BioCompute-Research-Lab) |
+<div align="center">
+
+<table>
+    <tr>
+        <th>Area</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Documentation</td>
+        <td>
+            <a href=".github/documentation/">Explore Documentation</a>
+        </td>
+    </tr>
+    <tr>
+        <td>Research</td>
+        <td>
+            <a href=".github/research/">Explore Research</a>
+        </td>
+    </tr>
+    <tr>
+        <td>Projects</td>
+        <td>
+            <a href=".github/projects/">Explore Projects</a>
+        </td>
+    </tr>
+    <tr>
+        <td>Resources</td>
+        <td>
+            <a href=".github/resources/">Explore Resources</a>
+        </td>
+    </tr>
+    <tr>
+        <td>GitHub Organization</td>
+        <td>
+            <a href="https://github.com/BioCompute-Research-Lab">
+                BioCompute Research Lab
+            </a>
+        </td>
+    </tr>
+</table>
+
+</div>
 
 ---
 
@@ -265,7 +362,7 @@ We are interested in connecting with <i><b>researchers, developers, students, sc
 
 **Biology · Computing · Artificial Intelligence · Biotechnology · Deep Technology**
 
-For collaboration and other inquiries, please contact the BioCompute Research Lab team through the official channels.
+For collaboration and other inquiries, please contact the **BioCompute Research Lab team** through the official channels.
 
 ---
 
