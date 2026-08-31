@@ -1,6 +1,6 @@
 # BioCompute - Research Lab
 
-> **Exploring computation beyond conventional silicon.**
+> **Biology • Computing • Intelligence**
 
 ---
 
@@ -187,3 +187,85 @@ Engineer
 Scale
    ↓
 Technology
+
+Across our research domains, we explore a broader computational progression:
+
+STORE
+  ↓
+COMPUTE
+  ↓
+SENSE
+  ↓
+LEARN
+  ↓
+ADAPT
+  ↓
+INTEGRATE
+  ↓
+INTELLIGENCE
+
+The objective is not to make biology imitate conventional computing.
+
+Instead, we ask:
+
+> **What computational capabilities are possible when biology itself becomes part of the architecture?**
+
+---
+
+## 🧩 Biology • Computing • Intelligence
+              BIOLOGY
+                 │
+                 │
+        ┌────────┴────────┐
+        │                 │
+    COMPUTING ─────── INTELLIGENCE
+
+<p align="center">
+   <i><b>Biology provides the substrate.
+
+Computing provides the methods.
+
+Intelligence provides the capability to learn, adapt, and make decisions.</b></i>
+</p>
+
+Together, they form the foundation of our research direction.
+
+---
+
+## 🌐 Ecosystem
+BioCompute - Research Lab is associated with <i><b><a href="https://arlmatrix.onrender.com/">ARL Matrix</a></b></i>.
+**Learn More**:
+<i><b><a href="https://bcrlab.site.je/">BioCompute - Research Lab</a></b></i>
+
+---
+
+## 📚 Explore
+| Area                | Link                                                                  |
+| ------------------- | --------------------------------------------------------------------- |
+| Documentation       | [Explore Documentation](.github/DOCUMENTATION/)                       |
+| Research            | [Explore Research](#-research)                                        |
+| Projects            | [Explore Projects](#-projects)                                        |
+| Resources           | [Explore Resources](#-resources)                                      |
+| GitHub Organization | [BioCompute Research Lab](https://github.com/BioCompute-Research-Lab) |
+
+---
+
+## 🤝 Collaboration
+
+We are interested in connecting with <i><b>researchers, developers, students, scientists, engineers, and organizations</b></i> working at the intersection of:
+
+Biology · Computing · Artificial Intelligence · Biotechnology · Deep Technology
+
+For collaboration and other inquiries, please contact the BioCompute Research Lab team through the official channels.
+
+---
+
+📜 Intellectual Property
+
+Unless explicitly stated otherwise, the contents of this repository are proprietary to BioCompute Research Lab.
+
+No license or permission is granted to reproduce, modify, distribute, publish, commercialize, or otherwise use the contents of this repository without prior written authorization.
+
+See <i><b><a href=".github/DOCUMENTATION/LICENSE.md">LICENSE.md</a></b></i> for the applicable terms.
+
+> **Thanks you so much!**
