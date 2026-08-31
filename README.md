@@ -292,9 +292,9 @@ Instead, we ask:
 </div>
 
 <p align="center">
-   <i><b>Biology provides the substrate.
-        Computing provides the methods.
-        Intelligence provides the capability to learn, adapt, and make decisions.</b></i>
+   <i><b>Biology provides the substrate.<br>
+        Computing provides the methods.<br>
+        Intelligence provides the capability to learn, adapt, and make decisions.</b></i><br>
 </p>
 
 Together, they form the foundation of our research direction.
