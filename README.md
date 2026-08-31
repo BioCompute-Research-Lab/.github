@@ -373,3 +373,14 @@ No license or permission is granted to **reproduce, modify, distribute, publish,
 See <i><b><a href=".github/documentation/LICENSE.md">LICENSE.md</a></b></i> for the applicable terms.
 
 > **Thanks you so much!**
+
+---
+
+<div align="center">
+
+<img
+    src="https://raw.githubusercontent.com/BioCompute-Research-Lab/.github/main/profile/assets/Logo.png"
+    alt="BioCompute Research Lab Logo"
+    width="180">
+
+</div>
