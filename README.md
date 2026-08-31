@@ -36,7 +36,7 @@ The `DOCUMENTATION` directory contains the foundational documents defining the d
     <tbody>
         <tr>
             <td>
-                <a href=".github/documentation/OVERVIEW.md">Overview</a>
+                <a href="https://github.com/BioCompute-Research-Lab/.github/blob/main/documentation/OVERVIEW.md">Overview</a>
             </td>
             <td>
                 Introduction to BioCompute Research Lab and its research direction
@@ -44,7 +44,7 @@ The `DOCUMENTATION` directory contains the foundational documents defining the d
         </tr>
         <tr>
             <td>
-                <a href=".github/documentation/VISION.md">Vision</a>
+                <a href="https://github.com/BioCompute-Research-Lab/.github/blob/main/documentation/VISION.md">Vision</a>
             </td>
             <td>
                 Long-term vision and scientific direction
@@ -52,7 +52,7 @@ The `DOCUMENTATION` directory contains the foundational documents defining the d
         </tr>
         <tr>
             <td>
-                <a href=".github/documentation/GOAL.md">Goal</a>
+                <a href="https://github.com/BioCompute-Research-Lab/.github/blob/main/documentation/GOAL.md">Goal</a>
             </td>
             <td>
                 Core objectives and intended outcomes
@@ -60,7 +60,7 @@ The `DOCUMENTATION` directory contains the foundational documents defining the d
         </tr>
         <tr>
             <td>
-                <a href=".github/documentation/PATH.md">Path</a>
+                <a href="https://github.com/BioCompute-Research-Lab/.github/blob/main/documentation/PATH.md">Path</a>
             </td>
             <td>
                 The approach from research to practical technology
@@ -68,7 +68,7 @@ The `DOCUMENTATION` directory contains the foundational documents defining the d
         </tr>
         <tr>
             <td>
-                <a href=".github/documentation/PARTNERS.md">Partners</a>
+                <a href="https://github.com/BioCompute-Research-Lab/.github/blob/main/documentation/PARTNERS.md">Partners</a>
             </td>
             <td>
                 Collaborations, associations, and ecosystem partners
@@ -76,7 +76,7 @@ The `DOCUMENTATION` directory contains the foundational documents defining the d
         </tr>
         <tr>
             <td>
-                <a href=".github/documentation/PRESENCE.md">Presence</a>
+                <a href="https://github.com/BioCompute-Research-Lab/.github/blob/main/documentation/ECOSYSTEM.md">Ecosystem</a>
             </td>
             <td>
                 BioCompute's organizational and digital presence
@@ -84,7 +84,7 @@ The `DOCUMENTATION` directory contains the foundational documents defining the d
         </tr>
         <tr>
             <td>
-                <a href=".github/documentation/LICENSE.md">License</a>
+                <a href="https://github.com/BioCompute-Research-Lab/.github/blob/main/LICENSE.md">License</a>
             </td>
             <td>
                 Intellectual property and usage terms
