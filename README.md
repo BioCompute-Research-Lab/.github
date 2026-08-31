@@ -282,9 +282,9 @@ Instead, we ask:
 ## 🧩 Biology • Computing • Intelligence
 <div align="center">
    <pre>
-              BIOLOGY
-                 │
-                 │
+        BIOLOGY
+            │
+            │
         ┌────────┴────────┐
         │                 │
     COMPUTING ─────── INTELLIGENCE
@@ -304,8 +304,8 @@ Together, they form the foundation of our research direction.
 ---
 
 ## 🌐 Ecosystem
-BioCompute - Research Lab is associated with <i><b><a href="https://arlmatrix.onrender.com/">ARL Matrix</a></b></i>.
-**Learn More**:
+BioCompute - Research Lab is associated with <i><b><a href="https://arlmatrix.onrender.com/">ARL Matrix</a></b></i>.<br>
+**Learn More**:<br>
 <i><b><a href="https://bcrlab.site.je/">BioCompute - Research Lab</a></b></i>
 
 ---
