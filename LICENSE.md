@@ -5,8 +5,8 @@ PROPRIETARY AND CONFIDENTIAL
 
 This repository, including all source code, documentation, research,
 designs, algorithms, models, data, files, materials, and other
-contents contained herein, is the exclusive property of
-BioCompute Research Lab.
+contents contained under the organization, is the exclusive property 
+of BioCompute Research Lab.
 
 No permission is granted to any individual, organization, or third
 party to copy, reproduce, modify, adapt, distribute, publish,
