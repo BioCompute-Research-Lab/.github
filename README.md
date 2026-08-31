@@ -282,9 +282,9 @@ Instead, we ask:
 ## 🧩 Biology • Computing • Intelligence
 <div align="center">
    <pre>
-        BIOLOGY
-            │
-            │
+       BIOLOGY
+                 │
+                 │
         ┌────────┴────────┐
         │                 │
     COMPUTING ─────── INTELLIGENCE
@@ -293,10 +293,8 @@ Instead, we ask:
 
 <p align="center">
    <i><b>Biology provides the substrate.
-
-Computing provides the methods.
-
-Intelligence provides the capability to learn, adapt, and make decisions.</b></i>
+        Computing provides the methods.
+        Intelligence provides the capability to learn, adapt, and make decisions.</b></i>
 </p>
 
 Together, they form the foundation of our research direction.
