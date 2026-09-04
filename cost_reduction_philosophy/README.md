@@ -1,4 +1,3 @@
-<p>Below is the <strong>copy-paste-ready Markdown version</strong> of the report. You can paste it directly into a <code>.md</code> file, GitHub README, documentation page, Notion, Obsidian, etc.</p>
 <pre><code class="language-markdown"># BioCompute Research Lab
 ## Cost-Reduction Processes Across the Six Research Paths
 
