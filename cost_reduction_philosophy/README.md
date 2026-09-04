@@ -1,4 +1,9 @@
-# BioCompute Research Lab
+# BioCompute - Research Lab
+<img src="https://github.com/BioCompute-Research-Lab/.github/blob/main/profile/assets/CRP.png" placeholder="Cost-Reduction-Philosiphy-Banner">
+<p align="center">
+  <b><i>Cost Reduction Philosophy</i></b>
+</p>
+
 ## Cost-Reduction Processes Across the Six Research Paths
 
 **Research objective:** Identify where and how BioCompute Research Lab can systematically reduce the cost of biological computing research without assuming that biological substrates are already cheaper than conventional silicon.
@@ -845,12 +850,19 @@ Model update
 <hr>
 <h1>11. The Most Important Metric: Cost per Successful Result</h1>
 <p>A laboratory can reduce <strong>cost per experiment</strong> while increasing total research cost if cheaper experiments produce more failures.</p>
-<p>Therefore track:</p>
-<h1>$$<br>\boxed{<br>C_{\text{successful result}}</h1>
-<p>\frac{\text{Total research expenditure}}<br>{\text{Number of validated successful outcomes}}<br>}<br>$$</p>
-<p>Also track:</p>
-<h1>$$<br>C_{\text{information}}</h1>
-<p>\frac{\text{Experiment cost}}<br>{\text{Useful information gained}}<br>$$</p>
+<p>
+Therefore, track:
+
+$$
+\boxed{C_{\text{successful result}} = \frac{\text{Total research expenditure}}{\text{Number of validated successful outcomes}}}
+$$
+
+Also track:
+
+$$
+C_{\text{information}} = \frac{\text{Experiment cost}}{\text{Useful information gained}}
+$$
+</p>
 <p>These two metrics prevent false optimization.</p>
 <hr>
 <h1>12. Decision Gates</h1>
@@ -891,7 +903,7 @@ LEVEL 5
 Closed-loop autonomous optimization
 </code></pre>
 <h3>Maturity interpretation</h3>
-<table>
+<table align="center">
 <thead>
 <tr>
 <th>Level</th>
@@ -981,8 +993,11 @@ Small experiment
 <li>feasibility</li>
 </ul>
 <p>A useful conceptual objective is:</p>
-<h1>$$<br>\text{Experiment value}</h1>
-<p>\frac{\text{Expected information gain}}<br>{\text{Experiment cost}}<br>$$</p>
+<p>
+  $$
+  <br>\text{Experiment value}\frac{\text{Expected information gain}}<br>{\text{Experiment cost}}<br>
+  $$
+</p>
 <hr>
 <h2>Phase V — Closed-Loop BioCompute</h2>
 <p><strong>Long-term</strong></p>
@@ -1004,7 +1019,7 @@ REDESIGN
 <p>This is the strongest long-term cost-reduction architecture because the system continuously learns which experiments are worth performing.</p>
 <hr>
 <h1>15. Priority Matrix</h1>
-<table>
+<table align="center">
 <thead>
 <tr>
 <th>Strategy</th>
@@ -1076,7 +1091,7 @@ REDESIGN
 </tbody></table>
 <hr>
 <h1>16. Path-Specific Highest-Value Levers</h1>
-<table>
+<table align="center">
 <thead>
 <tr>
 <th>Research path</th>
@@ -1137,7 +1152,7 @@ REDESIGN
 <hr>
 <h1>18. Core Laboratory Dashboard</h1>
 <p>A unified BioCompute dashboard could track:</p>
-<table>
+<table align="center">
 <thead>
 <tr>
 <th>Metric</th>
@@ -1252,4 +1267,13 @@ REDESIGN
 <p><strong>Model more → simulate more → filter earlier → experiment smaller → measure automatically → learn faster → scale only after validation.</strong></p>
 </blockquote>
 <p>This creates a research organization in which every physical experiment is selected because it is expected to generate information or performance that justifies its cost.</p>
-<pre><code>
+
+<p>
+  <h2>
+    BioCompute - Research Lab
+  </h2>
+  <i><b>
+      Follow Us On: <a href="https://www.linkedin.com/showcase/biocompute-research-lab/">LinkedIn</a>
+    </b></i>
+  <img src="https://github.com/BioCompute-Research-Lab/.github/blob/main/profile/assets/Logo.png">
+</p>
