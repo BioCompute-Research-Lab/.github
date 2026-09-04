@@ -22,7 +22,8 @@ A practical cost-reduction strategy therefore focuses on reducing:
 9. **Scaling losses when moving from prototype to larger systems**
 
 ### Cross-path principle
-```text
+<div align="center">
+  ```text
                     RESEARCH QUESTION
                            │
                            ▼
@@ -45,22 +46,23 @@ A practical cost-reduction strategy therefore focuses on reducing:
                            │
                            ▼
                LEARNING / OPTIMIZATION
-                           │
-                           └──────────────┐
-                                          │
+                            │
+                            |
+                            ▼
                          ITERATE ONLY WHEN
                          INFORMATION VALUE
                             JUSTIFIES COST
 ```
+</div>
 <p>The central operational metric should be <strong>cost per successful validated result</strong>, not simply cost per experiment.</p>
 <hr>
 <h1>2. Cost Model for the Lab</h1>
 <p>A useful general model is:</p>
 <p>$$<br>C_{\text{result}} =<br>\frac{<br>C_{\text{design}}+<br>C_{\text{compute}}+<br>C_{\text{materials}}+<br>C_{\text{labor}}+<br>C_{\text{instrument}}+<br>C_{\text{data}}+<br>C_{\text{validation}}+<br>C_{\text{failure}}<br>}{<br>N_{\text{validated results}}<br>}<br>$$</p>
 <p>Where the largest controllable term is often:</p>
-<p>$$<br>C_{\text{failure}} =<br>N_{\text{failed iterations}}<br>\times<br>C_{\text{average iteration}}<br>$$</p>
+<p>$$<br>C_{\text{failure}} =<br>N_{\text{failed iterations}}<br> X <br>C_{\text{average iteration}}<br>$$</p>
 <h3>Cost-reduction hierarchy</h3>
-<table>
+<table align="center">
 <thead>
 <tr>
 <th>Priority</th>
@@ -129,7 +131,7 @@ A practical cost-reduction strategy therefore focuses on reducing:
 <h2>3.1 Research objective</h2>
 <p>Investigate DNA as a medium for information storage, including encoding, synthesis, preservation, sequencing, retrieval, error correction and decoding.</p>
 <h2>3.2 Cost structure</h2>
-<pre><code class="language-text">Information
+<pre><code class="language-text" align="center">Information
     │
     ▼
 Encoding
@@ -155,39 +157,39 @@ Decoding
     ▼
 Recovered information
 </code></pre>
-<table>
+<table align="center">
 <thead>
 <tr>
-<th>Cost driver</th>
-<th>Why it matters</th>
+<th><b>Cost driver</b></th>
+<th><b>Why it matters</b></th>
 </tr>
 </thead>
 <tbody><tr>
-<td>DNA synthesis</td>
+<td>1. DNA synthesis</td>
 <td>Producing physical molecules can dominate early workflows</td>
 </tr>
 <tr>
-<td>Sequencing</td>
+<td>2. Sequencing</td>
 <td>Reading stored information creates another major cost</td>
 </tr>
 <tr>
-<td>Error correction</td>
+<td>3. Error correction</td>
 <td>More redundancy can increase synthesis/storage/read burden</td>
 </tr>
 <tr>
-<td>Sample preparation</td>
+<td>4. Sample preparation</td>
 <td>Adds labor and consumables</td>
 </tr>
 <tr>
-<td>Data processing</td>
+<td>5. Data processing</td>
 <td>Large sequencing datasets require compute and storage</td>
 </tr>
 <tr>
-<td>Retrieval latency</td>
+<td>6. Retrieval latency</td>
 <td>Slow workflows can increase operational cost</td>
 </tr>
 <tr>
-<td>Failed synthesis</td>
+<td>7. Failed synthesis</td>
 <td>Invalid sequences create rework</td>
 </tr>
 </tbody></table>
@@ -212,7 +214,7 @@ Recovered information
 <li>sequencing constraints</li>
 </ul>
 <p><strong>Decision gate:</strong></p>
-<pre><code class="language-text">Candidate sequence
+<pre><code class="language-text" align="center">Candidate sequence
       │
       ├── Fails design constraints → Reject computationally
       │
@@ -231,7 +233,7 @@ Recovered information
 <p>Use simulations to compare error-correction strategies before producing physical DNA.</p>
 <h3>Step 4 — Reduce physical experiments</h3>
 <p>Use a small representative library before scaling.</p>
-<pre><code class="language-text">Large design space
+<pre><code class="language-text" align="center">Large design space
        ↓
 Simulation
        ↓
@@ -247,47 +249,50 @@ Scale
 </code></pre>
 <h3>Step 5 — Optimize read/write cycles</h3>
 <p>Measure the complete cost of:</p>
-<h1>$$<br>C_{\text{storage cycle}}</h1>
-<p>C_{\text{write}}+<br>C_{\text{store}}+<br>C_{\text{read}}+<br>C_{\text{decode}}<br>$$</p>
+<p align="center">
+$$
+C_{\text{storage cycle}} = C_{\text{write}} + C_{\text{store}} + C_{\text{read}} + C_{\text{decode}}
+$$
+</p>
 <p>Do not optimize synthesis alone.</p>
 <h2>3.4 Key KPIs</h2>
-<table>
+<table align="center">
 <thead>
 <tr>
-<th>KPI</th>
-<th>Meaning</th>
+<th><b>KPI</b></th>
+<th><b>Meaning</b></th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Cost / stored bit</td>
+<td>1. Cost / stored bit</td>
 <td>Economic efficiency of storage</td>
 </tr>
 <tr>
-<td>Cost / recovered bit</td>
+<td>2. Cost / recovered bit</td>
 <td>Includes failures</td>
 </tr>
 <tr>
-<td>Bits / nucleotide</td>
+<td>3. Bits / nucleotide</td>
 <td>Encoding efficiency</td>
 </tr>
 <tr>
-<td>Write success rate</td>
+<td>4. Write success rate</td>
 <td>Physical reliability</td>
 </tr>
 <tr>
-<td>Read success rate</td>
+<td>5. Read success rate</td>
 <td>Retrieval reliability</td>
 </tr>
 <tr>
-<td>Recovery accuracy</td>
+<td>6. Recovery accuracy</td>
 <td>Data integrity</td>
 </tr>
 <tr>
-<td>Time to retrieval</td>
+<td>7. Time to retrieval</td>
 <td>Operational performance</td>
 </tr>
 <tr>
-<td>Cost / successful retrieval</td>
+<td>8. Cost / successful retrieval</td>
 <td>End-to-end metric</td>
 </tr>
 </tbody></table>
@@ -296,50 +301,50 @@ Scale
 <h2>4.1 Research objective</h2>
 <p>Explore computation using molecular interactions, DNA/RNA systems, biochemical reaction networks and molecular information-processing mechanisms.</p>
 <h2>4.2 Major cost drivers</h2>
-<table>
+<table align="center">
 <thead>
 <tr>
-<th>Driver</th>
-<th>Cost mechanism</th>
+<th><b>Driver</b></th>
+<th><b>Cost mechanism</b></th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Molecular reagents</td>
+<td>1. Molecular reagents</td>
 <td>Reaction components</td>
 </tr>
 <tr>
-<td>DNA/RNA synthesis</td>
+<td>2. DNA/RNA synthesis</td>
 <td>Construct preparation</td>
 </tr>
 <tr>
-<td>Reaction count</td>
+<td>3. Reaction count</td>
 <td>More steps increase materials and failure opportunities</td>
 </tr>
 <tr>
-<td>Purification</td>
+<td>4. Purification</td>
 <td>Adds consumables and labor</td>
 </tr>
 <tr>
-<td>Instrumentation</td>
+<td>5. Instrumentation</td>
 <td>Detection and measurement</td>
 </tr>
 <tr>
-<td>Reaction time</td>
+<td>6. Reaction time</td>
 <td>Limits throughput</td>
 </tr>
 <tr>
-<td>Optimization cycles</td>
+<td>7. Optimization cycles</td>
 <td>Large parameter spaces</td>
 </tr>
 <tr>
-<td>Measurement noise</td>
+<td>8. Measurement noise</td>
 <td>Requires replication</td>
 </tr>
 </tbody></table>
 <h2>4.3 Cost-reduction process</h2>
 <h3>Step 1 — Formalize the computation</h3>
 <p>Translate the target computation into:</p>
-<pre><code class="language-text">Problem
+<pre><code class="language-text" align="center">Problem
   ↓
 Logic / algorithm
   ↓
@@ -371,9 +376,9 @@ Physical implementation
 <li>purification steps</li>
 <li>detection events</li>
 </ul>
-<h3>Step 4 — Use multiplexing</h3>
+<h3>Step 4 — Use Multiplexing</h3>
 <p>Where technically appropriate, test many candidate conditions in parallel.</p>
-<pre><code class="language-text">1 experiment × 100 conditions
+<pre><code class="language-text" align="center">1 experiment × 100 conditions
              ↓
       Parallel assay
              ↓
@@ -404,7 +409,7 @@ Physical implementation
 <h2>5.1 Research objective</h2>
 <p>Study biological systems as computational systems, including neural computation, biological neural networks, information processing and hybrid architectures.</p>
 <h2>5.2 Cost structure</h2>
-<pre><code class="language-text">Biological system
+<pre><code class="language-text" align="center">Biological system
        │
        ├── Data acquisition
        ├── Experimental setup
@@ -417,18 +422,18 @@ Physical implementation
 <h3>Step 1 — Build the computational model first</h3>
 <p>Use:</p>
 <ul>
-<li>mathematical models</li>
-<li>network models</li>
-<li>agent-based models</li>
-<li>neural simulations</li>
-<li>reduced-order models</li>
+<li>Mathematical Models</li>
+<li>Network Models</li>
+<li>Agent-based Models</li>
+<li>Neural Simulations</li>
+<li>Reduced-order Models</li>
 </ul>
 <p>to determine which experiments are worth performing.</p>
 <h3>Step 2 — Identify information-rich measurements</h3>
 <p>Do not maximize data volume automatically.</p>
 <p>Select measurements with high expected information gain.</p>
 <h3>Step 3 — Use active learning</h3>
-<pre><code class="language-text">Model
+<pre><code class="language-text" align=""center">Model
   ↓
 Uncertainty estimate
   ↓
@@ -446,39 +451,39 @@ Repeat
 <h3>Step 5 — Automate analysis</h3>
 <p>Automate:</p>
 <ul>
-<li>preprocessing</li>
-<li>feature extraction</li>
-<li>quality control</li>
-<li>statistical analysis</li>
-<li>visualization</li>
-<li>model fitting</li>
+<li>Preprocessing</li>
+<li>Feature Extraction</li>
+<li>Quality Control</li>
+<li>Statistical Analysis</li>
+<li>Visualization</li>
+<li>Model Fitting</li>
 </ul>
 <h2>5.4 KPIs</h2>
-<table>
+<table align="center">
 <thead>
 <tr>
-<th>KPI</th>
-<th>Target concept</th>
+<th><b>KPI</b></th>
+<th><b>Target concept</b></th>
 </tr>
 </thead>
 <tbody><tr>
-<td>Cost / informative measurement</td>
+<td>1. Cost / informative measurement</td>
 <td>Information efficiency</td>
 </tr>
 <tr>
-<td>Cost / validated model</td>
+<td>2. Cost / validated model</td>
 <td>End-to-end efficiency</td>
 </tr>
 <tr>
-<td>Experiments / validated hypothesis</td>
+<td>3. Experiments / validated hypothesis</td>
 <td>Research efficiency</td>
 </tr>
 <tr>
-<td>Data reuse rate</td>
+<td>4. Data reuse rate</td>
 <td>Avoid duplicated acquisition</td>
 </tr>
 <tr>
-<td>Instrument utilization</td>
+<td>5. Instrument utilization</td>
 <td>Infrastructure efficiency</td>
 </tr>
 </tbody></table>
@@ -501,7 +506,7 @@ Repeat
 <li>Iterative redesign</li>
 </ul>
 <h2>6.3 Cost-reduction workflow</h2>
-<pre><code class="language-text">Design
+<pre><code class="language-text" align="center">Design
   ↓
 Computational screening
   ↓
@@ -523,10 +528,10 @@ Scale
 <p>Use modular components where scientifically appropriate.</p>
 <p>Benefits:</p>
 <ul>
-<li>reusable protocols</li>
-<li>reusable controls</li>
-<li>easier debugging</li>
-<li>lower redesign cost</li>
+<li>Reusable Protocols</li>
+<li>Reusable Controls</li>
+<li>Easier Debugging</li>
+<li>Lower Redesign cost</li>
 </ul>
 <h3>Step 3 — Test small first</h3>
 <p>Avoid large-scale validation before basic circuit behavior is established.</p>
@@ -536,7 +541,7 @@ Scale
 <p>Computer vision can reduce manual scoring and make large screens practical.</p>
 <h3>Step 6 — Use iterative design optimization</h3>
 <p>Track each generation:</p>
-<pre><code class="language-text">Version 1 → failure data
+<pre><code class="language-text" align="center">Version 1 → failure data
        ↓
 Model update
        ↓
@@ -562,7 +567,7 @@ Version 3
 <p>Explore biological sensing, adaptation, distributed biological systems, emergent computation and collective behavior.</p>
 <h2>7.2 Economic challenge</h2>
 <p>Living systems introduce substantial variability.</p>
-<pre><code class="language-text">System variability
+<pre><code class="language-text" align="center">System variability
        ↓
 Measurement uncertainty
        ↓
@@ -577,11 +582,11 @@ Higher cost
 <h3>Step 2 — Simulate before experimentation</h3>
 <p>Model:</p>
 <ul>
-<li>population behavior</li>
-<li>environmental response</li>
-<li>feedback</li>
-<li>adaptation</li>
-<li>distributed decision-making</li>
+<li>Population Behavior</li>
+<li>Environmental Response</li>
+<li>Feedback</li>
+<li>Adaptation</li>
+<li>Distributed Decision-making</li>
 </ul>
 <h3>Step 3 — Use controlled perturbations</h3>
 <p>Rather than testing every environmental condition, select perturbations that distinguish competing hypotheses.</p>
@@ -590,13 +595,13 @@ Higher cost
 <h3>Step 5 — Automate observation</h3>
 <p>Use:</p>
 <ul>
-<li>imaging</li>
-<li>sensors</li>
-<li>automated tracking</li>
-<li>computational phenotype extraction</li>
+<li>Imaging</li>
+<li>Sensors</li>
+<li>Automated Tracking</li>
+<li>Computational Phenotype Extraction</li>
 </ul>
 <h3>Step 6 — Build adaptive experimental loops</h3>
-<pre><code class="language-text">Observe
+<pre><code class="language-text" align="center">Observe
    ↓
 Infer
    ↓
@@ -623,18 +628,18 @@ Observe
 <h2>8.2 Major cost drivers</h2>
 <p>Unlike wet-lab paths, Bio-AI can shift costs toward:</p>
 <ul>
-<li>compute</li>
-<li>data acquisition</li>
-<li>model training</li>
-<li>inference</li>
-<li>annotation</li>
-<li>storage</li>
-<li>failed predictions</li>
-<li>experimental validation</li>
+<li>Compute</li>
+<li>Data Acquisition</li>
+<li>Model Training</li>
+<li>Inference</li>
+<li>Annotation</li>
+<li>Storage</li>
+<li>Failed Predictions</li>
+<li>Experimental Validation</li>
 </ul>
 <h2>8.3 Cost-reduction process</h2>
 <h3>Step 1 — Use existing data before generating new data</h3>
-<pre><code class="language-text">Existing datasets
+<pre><code class="language-text" align="center">Existing datasets
        ↓
 Data quality assessment
        ↓
@@ -650,17 +655,17 @@ Generate only necessary data
 <p>Do not begin with the most expensive model.</p>
 <p>Compare:</p>
 <ul>
-<li>simple statistical baseline</li>
-<li>classical ML</li>
-<li>compact neural model</li>
-<li>larger model</li>
+<li>Simple Statistical Baseline</li>
+<li>Classical ML</li>
+<li>Compact Neural Model</li>
+<li>Larger Model</li>
 </ul>
 <p>Use the least expensive model that meets the scientific objective.</p>
 <h3>Step 3 — Use transfer learning and pretrained models</h3>
 <p>Where scientifically valid, reuse learned representations instead of retraining from scratch.</p>
 <h3>Step 4 — Optimize experiments using AI</h3>
 <p>The strongest cost advantage may come from using AI to reduce <strong>physical experimentation</strong>, not merely reducing GPU expenditure.</p>
-<pre><code class="language-text">AI prediction
+<pre><code class="language-text" align="center">AI prediction
      ↓
 Uncertainty
      ↓
@@ -677,11 +682,11 @@ Model update
 <h3>Step 6 — Control inference cost</h3>
 <p>For production systems:</p>
 <ul>
-<li>cache repeated computations</li>
-<li>batch compatible inference</li>
-<li>use smaller models where possible</li>
-<li>quantize/distill when accuracy permits</li>
-<li>separate high-value from low-value predictions</li>
+<li>Cache Repeated Computations</li>
+<li>Batch Compatible Inference</li>
+<li>Use smaller models where possible</li>
+<li>Quantize/distill when accuracy permits</li>
+<li>Separate high-value from low-value predictions</li>
 </ul>
 <h2>8.4 KPIs</h2>
 <ul>
@@ -696,7 +701,8 @@ Model update
 <hr>
 <h1>9. Cross-Path Cost Reduction Architecture</h1>
 <p>The six research paths can share a common operating architecture.</p>
-<pre><code class="language-text">                         BIOCOMPUTE RESEARCH
+<pre><code class="language-text" align="center>                         
+                       BIOCOMPUTE RESEARCH
                                   │
           ┌───────────────────────┼───────────────────────┐
           │                       │                       │
