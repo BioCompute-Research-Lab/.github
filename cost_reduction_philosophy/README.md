@@ -1,7 +1,7 @@
 # BioCompute Research Lab
 ## Cost-Reduction Processes Across the Six Research Paths
 
-&gt; **Research objective:** Identify where and how BioCompute Research Lab can systematically reduce the cost of biological computing research without assuming that biological substrates are already cheaper than conventional silicon.
+**Research objective:** Identify where and how BioCompute Research Lab can systematically reduce the cost of biological computing research without assuming that biological substrates are already cheaper than conventional silicon.
 
 ---
 
@@ -22,7 +22,6 @@ A practical cost-reduction strategy therefore focuses on reducing:
 9. **Scaling losses when moving from prototype to larger systems**
 
 ### Cross-path principle
-
 ```text
                     RESEARCH QUESTION
                            │
@@ -52,7 +51,7 @@ A practical cost-reduction strategy therefore focuses on reducing:
                          ITERATE ONLY WHEN
                          INFORMATION VALUE
                             JUSTIFIES COST
-</code></pre>
+```
 <p>The central operational metric should be <strong>cost per successful validated result</strong>, not simply cost per experiment.</p>
 <hr>
 <h1>2. Cost Model for the Lab</h1>
