@@ -12,9 +12,9 @@ of **BioCompute - Research Lab**.
 party to copy, reproduce, modify, adapt, distribute, publish,
 sublicense, sell, transfer, commercialize, or otherwise use any part
 of this repository or its contents without the prior written
-permission of **BioCompute Research Lab**.*
+permission of **BioCompute - Research Lab**.*
 
-The rights of BioCompute Research Lab are reserved under the
+The rights of **BioCompute - Research Lab** are reserved under the
 *Copyright Act, 1957*, including the exclusive rights recognized under
 **Section 14** of the Act.
 
@@ -35,12 +35,12 @@ software, algorithms, and proprietary information, are reserved by
 law.
 
 *Nothing in this repository shall be interpreted as granting*,
-whether expressly or implicitly, any license or other right to use
-the intellectual property of BioCompute Research Lab.
+whether **expressly or implicitly**, any license or other right to use
+the intellectual property of **BioCompute - Research Lab**.
 
 Any permission to use, reproduce, modify, distribute, or otherwise
 exploit any part of this repository must be granted expressly in
-writing by an authorized representative of BioCompute Research Lab.
+writing by an authorized representative of **BioCompute - Research Lab**.
 
 *This notice shall be interpreted and enforced subject to the
 applicable laws of the* **Republic of India**.
