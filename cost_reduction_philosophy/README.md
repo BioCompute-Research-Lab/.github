@@ -1,4 +1,4 @@
-<pre><code class="language-markdown"># BioCompute Research Lab
+# BioCompute Research Lab
 ## Cost-Reduction Processes Across the Six Research Paths
 
 &gt; **Research objective:** Identify where and how BioCompute Research Lab can systematically reduce the cost of biological computing research without assuming that biological substrates are already cheaper than conventional silicon.
@@ -1248,4 +1248,3 @@ REDESIGN
 </blockquote>
 <p>This creates a research organization in which every physical experiment is selected because it is expected to generate information or performance that justifies its cost.</p>
 <pre><code>
-</code></pre>
