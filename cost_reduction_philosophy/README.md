@@ -701,7 +701,7 @@ Model update
 <hr>
 <h1>9. Cross-Path Cost Reduction Architecture</h1>
 <p>The six research paths can share a common operating architecture.</p>
-<pre><code class="language-text" align="center>                         
+<pre><code class="language-text">                         
                        BIOCOMPUTE RESEARCH
                                   │
           ┌───────────────────────┼───────────────────────┐
@@ -736,7 +736,7 @@ Model update
 </code></pre>
 <hr>
 <h1>10. Shared Cost-Reduction Technologies</h1>
-<table>
+<table align="center">
 <thead>
 <tr>
 <th>Technology / process</th>
