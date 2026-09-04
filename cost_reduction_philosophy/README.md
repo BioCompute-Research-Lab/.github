@@ -1275,5 +1275,5 @@ REDESIGN
   <i><b>
       Follow Us On: <a href="https://www.linkedin.com/showcase/biocompute-research-lab/">LinkedIn</a>
     </b></i>
-  <img src="https://github.com/BioCompute-Research-Lab/.github/blob/main/profile/assets/Logo.png">
+  <img src="https://github.com/BioCompute-Research-Lab/.github/blob/main/profile/assets/Logo.png" width="180px">
 </p>
